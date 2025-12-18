@@ -1,0 +1,5 @@
+{
+  "name": "Copy of CyberGuard NIDS",
+  "description": "A real-time Network Intrusion Detection System dashboard. It simulates network traffic capture, detects anomalies (Port Scans, Brute Force, SYN Floods) using heuristic analysis, and utilizes Gemini AI for advanced threat intelligence and remediation advice.",
+  "requestFramePermissions": []
+}
